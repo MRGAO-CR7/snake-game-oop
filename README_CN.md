@@ -1,3 +1,5 @@
+[中文版](README_CN.md) | [English](README.md)
+
 # 贪吃蛇游戏 - 面向对象编程版本
 
 ## 📋 简介

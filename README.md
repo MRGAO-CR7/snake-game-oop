@@ -1,3 +1,5 @@
+[中文版](README_CN.md) | [English](README.md)
+
 # Snake Game - Object-Oriented Programming Version
 
 ## 📋 Introduction
@@ -32,7 +34,7 @@ class Snake:
 ## 📁 Code Structure
 
 ```
-oop_version/
+snake-game-oop/
 ├── main.py                 # Main entry point (directly imports and runs SnakeGameGUI)
 └── src/                    # Source code folder
     ├── __init__.py         # Package initialization file
@@ -75,7 +77,7 @@ python3 main.py
 Or:
 
 ```bash
-cd oop_version
+cd snake-game-oop
 python3 main.py
 ```
 
@@ -179,7 +181,7 @@ def get_head(self) -> Point:
 
 ## 🔄 Compare with Functional Version
 
-Check out `../functional_version/` to understand the differences between the two programming styles!
+Check out `../snake-game-functional/` to understand the differences between the two programming styles!
 
 ## 🎓 Advanced Features
 
