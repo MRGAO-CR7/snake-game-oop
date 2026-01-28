@@ -68,6 +68,34 @@ snake-game-oop/
 
 See `STRUCTURE.md` for detailed information.
 
+## 🔧 Environment Setup
+
+### macOS
+1. **Install Python 3.11+** (if not already installed):
+   ```bash
+   brew install python3
+   ```
+
+2. **Install tkinter** (required for GUI):
+   ```bash
+   brew install python-tk
+   ```
+
+3. **Verify installation**:
+   ```bash
+   python3 -c "import tkinter; print('tkinter is ready!')"
+   ```
+
+### Windows
+1. **Install Python 3.11+** from [python.org](https://www.python.org/downloads/)
+   - ✅ Check "Add Python to PATH" during installation
+   - ✅ tkinter is included by default with Python on Windows
+
+2. **Verify installation**:
+   ```cmd
+   python -c "import tkinter; print('tkinter is ready!')"
+   ```
+
 ## 🎮 How to Run
 
 ```bash
